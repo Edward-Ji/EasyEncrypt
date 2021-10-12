@@ -1,10 +1,6 @@
-# Important notice
-You may experience bug while using the program.
-I am not responsible for any loss of your data!
+# Disclaimer
 
-The encryption method used in this program is very naive.
-It is just for practice and fun! Don't use it to encrypt anything important!
-
+It is just for practice and fun! The encryption method used in this program is very naive. And there are known bugs that could result in loss of data. Don't use it to encrypt anything important! 
 
 Written in 2018
 Uploaded in 2021
