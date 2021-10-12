@@ -93,8 +93,8 @@ while True:
     print("\033[1mEasy Encrypt Engine\033[0m\n"
         + "version: " + VERSION
         + "\nThis is a program that can encrypt and unencrpt files. "
-        + "The encryption method is simple, so, "
-        + "please use it for low-level encryption only! \n"
+        + "The encryption method is super simple, so, "
+        + "please do not use it for anything serious! \n"
         + "Operations: [e]ncrypt, [d]ecrypt, [r]ead, [q]uit")
     ope = input("Select a operation from above: ")
     if ope == 'q':
